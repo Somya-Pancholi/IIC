@@ -71,3 +71,4 @@ Navigation is handled automatically through React Router. Simply click any navig
 
 The main landing page (`/`) remains completely intact and unchanged - all new pages are separate routes.
 
+

@@ -92,3 +92,4 @@ document.querySelectorAll('.know-more-btn, .view-all-btn, .join-us-btn, .login-b
     });
 });
 
+
